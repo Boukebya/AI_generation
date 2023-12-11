@@ -1,5 +1,5 @@
 # AI_generation
 
-![image](img.png)
+Utilisation de différentes architectures afin de générer des images
 
-Si ca te convient Paul je suis chaud de faire VAE et diffusion model 
+![image](img.png)
